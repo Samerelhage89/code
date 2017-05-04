@@ -7,8 +7,7 @@
 <tbody>
    <tr>
     <td colspan="2" class="logo" style="text-align:center">
-    <a herf="/wiki/File:Lamborghini_logo.svg" class="image"></a>
-    <a href="/wiki/File:Lamborghini_Logo.svg" class="image"><img alt="Lamborghini Logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/180px-Lamborghini_Logo.svg.png" width="180" height="206" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/270px-Lamborghini_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/360px-Lamborghini_Logo.svg.png 2x" data-file-width="350" data-file-height="400"></a>
+    
    <img alt="Lamborghini Logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/180px-Lamborghini_Logo.svg.png" width="180" height="206" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/270px-Lamborghini_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/360px-Lamborghini_Logo.svg.png 2x" data-file-width="350" data-file-height="400">
    </a>
     
